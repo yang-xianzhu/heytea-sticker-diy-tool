@@ -16,15 +16,11 @@
 
         <div class="links mb-6">
             <div class="link-item mb-4">
-                <span class="mr-2">项目地址：</span>
+                <span class="mr-2 text-gray-800">参考项目python版地址：</span>
                 <el-link href="https://github.com/FuQuan233/HeyTea_AutoUpload" target="_blank" type="primary">
                     https://github.com/FuQuan233/HeyTea_AutoUpload
                 </el-link>
             </div>
-        </div>
-
-        <div class="author-info">
-            <p class="text-gray-500 text-sm text-center">© 2025 FuQuan233</p>
         </div>
     </div>
 </template>
